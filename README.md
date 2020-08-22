@@ -5,6 +5,9 @@ Finish time: -
 Actual time needed to complete: 8h
 Link: https://github.com/maisjamil1/pythonic-garage-band
 Notes:
-poetry new madlib-cli cd madlib-cli poetry shell poetry install poetry add pytest-watch --dev
+poetry new 
+poetry shell 
+poetry install 
+poetry add pytest-watch --dev
 
-@pytest.mark.skip(reason="______") .formate(*list)
+@pytest.mark.skip(reason="______") 
